@@ -1,0 +1,29 @@
+index.shtml:	<meta name="author" content="Erik Trainer" />
+index.shtml:	<title>Erik Trainer | Carnegie Mellon University</title>
+index.shtml:				<td width="50%"><h1 style="margin-bottom: 0;">Erik Trainer</h1></td>
+index.shtml:		<h2>About Erik</h2>
+index.shtml:			<img src="images/erik.jpg" alt="Photograph of Erik Trainer"/>
+index.shtml:			<p>skype<br/><a href="callto://erik.trainer">erik.trainer</a></p>
+index.shtml:			<p>linkedin<br/><a href="http://www.linkedin.com/pub/erik-trainer/12/788/7aa">Erik Trainer</a></p>
+index.shtml:				Attention: Erik Trainer<br/>
+personal.shtml:	<meta name="author" content="Erik Trainer" />
+personal.shtml:	<title>Erik Trainer | Carnegie Mellon University</title>
+personal.shtml:				<td width="50%"><h1 style="margin-bottom: 0;">Erik Trainer</h1></td>
+personal.shtml:			<img src="images/erik.jpg" alt="Photograph of Erik Trainer"/>
+personal.shtml:			<p>skype<br/><a href="callto://erik.trainer">erik.trainer</a></p>
+personal.shtml:			<p>linkedin<br/><a href="http://www.linkedin.com/pub/erik-trainer/12/788/7aa">Erik Trainer</a></p>
+personal.shtml:			<p style="font-size: 11px;">Attention: Erik Trainer<br/>
+projects.shtml:	<meta name="author" content="Erik Trainer" />
+projects.shtml:	<title>Erik Trainer | Carnegie Mellon University</title>
+projects.shtml:				<td width="50%"><h1 style="margin-bottom: 0;">Erik Trainer</h1></td>
+projects.shtml:			<img src="images/erik.jpg" alt="Photograph of Erik Trainer"/>
+projects.shtml:			<p>skype<br/><a href="callto://erik.trainer">erik.trainer</a></p>
+projects.shtml:			<p>linkedin<br/><a href="http://www.linkedin.com/pub/erik-trainer/12/788/7aa">Erik Trainer</a></p>
+projects.shtml:			<p style="font-size: 11px;">Attention: Erik Trainer<br/>
+pubs.shtml:	<meta name="author" content="Erik Trainer" />
+pubs.shtml:	<title>Erik Trainer | Carnegie Mellon University</title>
+pubs.shtml:				<td width="50%"><h1 style="margin-bottom: 0;">Erik Trainer</h1></td>
+pubs.shtml:			<img src="images/erik.jpg" alt="Photograph of Erik Trainer"/>
+pubs.shtml:			<p>skype<br/><a href="callto://erik.trainer">erik.trainer</a></p>
+pubs.shtml:			<p>linkedin<br/><a href="http://www.linkedin.com/pub/erik-trainer/12/788/7aa">Erik Trainer</a></p>
+pubs.shtml:			<p style="font-size: 11px;">Attention: Erik Trainer<br/>
